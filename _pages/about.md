@@ -17,7 +17,7 @@ The main focus of my research is the development of conditions for analysis and 
 Recent News
 ======
 
-- Our paper **Distributed Event-Triggered Fuzzy Control for Nonlinear Interconnected Systems** was accepted for publication in the Journal **Chaos, Solitons and Fractals**. Congratulations to the Ph.D. student Paulo Pessim. I am proud to co-supervise Paulo. 
+- Our paper **Distributed Event-Triggered Fuzzy Control for Nonlinear Interconnected Systems** was accepted for publication in the Journal **Chaos, Solitons and Fractals**. Congratulations to the Ph.D. student Paulo Pessim. I am very proud to co-supervise Paulo. 
 
 - Item 2
 
