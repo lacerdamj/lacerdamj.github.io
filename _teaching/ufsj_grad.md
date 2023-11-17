@@ -8,7 +8,7 @@ date: 2017-08-01
 location: "São João del-Rei, Brazil"
 ---
 
-This is a description of the graduate modules I have lectured at UFSJ.
+This is a description of the graduate modules I have lectured at UFSJ since 2017.
 
 Signals and Systems
 ======
