@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/ufsj_undergrad
 venue: "Department of Electrical Engineering"
-date: 2016-08-01 - Present
+date: 2016-08-01
 location: "São João del-Rei, Brazil"
 ---
 
