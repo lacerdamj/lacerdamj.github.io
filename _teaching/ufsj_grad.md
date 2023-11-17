@@ -4,8 +4,8 @@ collection: teaching
 type: "Graduate courses"
 permalink: /teaching/ufsj_grad
 venue: "Department of Electrical Engineering"
+date: 2016 - present
 location: "São João del-Rei, Brazil"
-date: "2016-Present"
 ---
 
 This is a description of the graduate modules I have lectured at UFSJ.
