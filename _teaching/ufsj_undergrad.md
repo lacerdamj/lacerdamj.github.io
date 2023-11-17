@@ -7,6 +7,7 @@ venue: "Department of Electrical Engineering"
 location: "São João del-Rei, Brazil"
 ---
 
+This is a description of the undergraduate modules I have lectured at UFSJ.
 
 Linear Systems
 ======
