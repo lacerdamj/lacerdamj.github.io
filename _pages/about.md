@@ -18,9 +18,9 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
-- Our paper **Distributed Event-Triggered Fuzzy Control for Nonlinear Interconnected Systems** was accepted for publication in the Journal **Chaos, Solitons and Fractals**. Congratulations to the Ph.D. student Paulo Pessim. I am very proud to co-supervise Paulo. 
+- **November 2023** - Our paper **Distributed Event-Triggered Fuzzy Control for Nonlinear Interconnected Systems** was accepted for publication in the Journal **Chaos, Solitons and Fractals**. Congratulations to the Ph.D. student Paulo Pessim. I am very proud to co-supervise Paulo. 
 
-- Our paper **Finite-Time State Feedback Control for Discrete-Time Cyber-Physical Systems under DoS Attacks** was accepted for publication in *IEEE Chilecon 2023, the Chilean Conference on Electrical Electronic Engineering, Informatics and Communications Technology*. Congratulations to Felipe Augusto Silva, an undergraduate student from UFSJ who worked on this exciting topic.
+- **November 2023** - Our paper **Finite-Time State Feedback Control for Discrete-Time Cyber-Physical Systems under DoS Attacks** was accepted for publication in *IEEE Chilecon 2023, the Chilean Conference on Electrical Electronic Engineering, Informatics and Communications Technology*. Congratulations to Felipe Augusto Silva, an undergraduate student from UFSJ who worked on this exciting topic.
 
 - Item 3
 
