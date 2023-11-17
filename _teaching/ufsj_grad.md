@@ -1,5 +1,5 @@
 ---
-title: "Federal University of São João del-Rei"
+title: "Graduate courses"
 collection: teaching
 type: "Graduate courses"
 permalink: /teaching/ufsj_grad
