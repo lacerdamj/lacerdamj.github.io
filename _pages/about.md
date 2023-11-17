@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+I am currently working in the Electrical Engineering Department at the Federal University of São João del-Rei - UFSJ, Brazil. Before joining UFSJ, I held postdoctoral research positions at the University of Campinas, and the Aerospace Engineering and Mechanics Department at, the University of Minnesota, Minneapolis, USA. I was awarded my Ph.D. degree in electrical engineering from the School of Electrical and Computer Engineering (FEEC) at [UNICAMP](https://www.unicamp.br/unicamp/) in 2014.
+
+
+The main focus of my research is the development of conditions for analysis and robust control design for systems under constraints. Nowadays, I am particularly interested in the study of cyber-physical systems (CPS) in the presence of attacks in communication channels. It is important to highlight that CPS encloses several areas of interest, such as human-in-the-loop, real-time control, the Internet of Things, and machine-to-machine communication, among others.
 
 Recent News
 ======
