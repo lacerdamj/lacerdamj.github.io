@@ -2,19 +2,17 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/ufsj_undergrad
+venue: "Federal University of São João del-Rei, Department of Electrical Engineering"
+location: "São João del-Rei, Brazil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Linear Systems
 ======
 
-Heading 2
+Linear Control
 ======
 
-Heading 3
+Electrical Circuits Laboratory
 ======
