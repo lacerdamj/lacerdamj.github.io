@@ -1,7 +1,7 @@
 ---
-title: "Federal University of São João del-Rei"
+title: "Undergraduate courses"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/ufsj_undergrad
 venue: "Department of Electrical Engineering"
 location: "São João del-Rei, Brazil"
