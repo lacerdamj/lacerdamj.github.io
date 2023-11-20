@@ -2,6 +2,20 @@
 
 [*&#8224; indicate Master's students formally advised or co-advised.*]
 
+- **[J36]** P. M. Oliveira&dagger;, J. M. Palma, and **M. J. Lacerda**. "Control Design for an Unreliable Markovian Network Susceptible to Denial-of-Service Attacks," *IEEE Transactions on Circuits and Systems II: Express Briefs*, to appear.
+
+- **[J35]** P. S. P. Pessim&dagger;, P. H. S. Coutinho, **M. J. Lacerda**, and R. M. Palhares. "Distributed Control of Time-Delay Interconnected Nonlinear-TS Fuzzy Systems," *Journal of the Franklin Institute*, vol. 360, no. 13, pp. 9637--9662, 2023.
+
+- **[J34]** P. M. Oliveira&dagger;, J. M. Palma, E. G. Nepomuceno, and **M. J. Lacerda**. "Reinforcement learning for control design of uncertain polytopic systems," *Information Sciences*, vol. 625, pp. 417--429, May 2023.
+
+- **[J33]** R. M. Fuentes&dagger;, J. M. Palma, H. Guillardi, **M. J. Lacerda**, L. P. Carvalho, A. J. Rojas, R. C. L. F. Oliveira. "A gain-scheduled control design applied to classical dc-dc converters in photovoltaic system and constant power loads," *Mathematics*, vol. 10, no. 19:3467, 2022.
+
+- **[J32]** J. F. V. D. Moreira&dagger;, **M. J. Lacerda**. "State-feedback control for cyber-physical discrete-time systems under replay attacks: an LMI approach," *Mathematical Problems in Engineering*, pp. 1--9, 2022.
+
+- **[J31]** M. L. C. Peixoto, P. H. S. Coutinho, **M. J. Lacerda**, R. M. Palhares. "Guaranteed region of attraction estimation for time-delayed fuzzy systems via static output-feedback control," *Automatica*, vol. 143, pp. 1--5, 2022.
+
+- **[J30]** G. O. Ferreira&dagger;, L. S. Figueiredo, **M. J. Lacerda**, V. J. S. Leite. "ISS control for continuous-time systems with filtered time-varying parameter and saturating actuators," *Asian Journal of Control*, vol. 24, no. 6, pp. 2888--2900, November 2022.
+
 - **[J29]** P. M. Oliveira&dagger;, J. M. Palma, **M. J. Lacerda**. "$\mathcal{H}_2$ state-feedback control for discrete-time cyber-physical uncertain systems under DoS attacks," *Applied Mathematics and Computation*, vol. 425, pp. 1--13, 2022.
 
 - **[J28]** L. S. Figueiredo&dagger;, **M. J. Lacerda**, V. J. S. Leite. "Design of saturating state feedback control laws for discrete time linear parameter varying systems through homogeneous polynomial parameter dependent functions," *International Journal of Robust and Nonlinear Control*, vol. 31, no. 14, pp. 6585--6601, 2021.
