@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
 
-# - title: "People"
-#   url: /people/
+ - title: "People"
+   url: /people/
 
 #  - title: "Service"
 #    url: /service/   
