@@ -18,11 +18,11 @@ main:
   - title: "CV"
     url: /cv/
 
- - title: "People"
-    url: /people/
+# - title: "People"
+#   url: /people/
 
-  - title: "Service"
-    url: /service/   
+#  - title: "Service"
+#    url: /service/   
     
   - title: "Guide"
     url: /markdown/
