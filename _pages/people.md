@@ -1,4 +1,5 @@
 ---
-title: "People"
-author_profile: true
+layout: default
+title: People
 ---
+
