@@ -1,9 +1,8 @@
 ---
-title: "People"
-layout: archive
 permalink: /people/
+title: "People"
 author_profile: true
+redirect_from: 
+  - /md/
+  - /people.html
 ---
-
-
-## People
