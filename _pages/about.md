@@ -18,10 +18,12 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **November 2023** - Josefredo Gadelha da Silva, a Ph.D. student whom I co-supervise, from Maynooth University, Centre for Ocean Energy Research (COER) will be visiting UFSJ on the week of November 27. He will give a lecture on the topic: 
+**A Brief Introduction to Hybrid Wind/Wave Energy Floating Offshore Platforms**, 27th November 2023, 16h30, Office 3.16 EL, DEPEL Building.  
+
 - **November 2023** - Our paper **Distributed Event-Triggered Fuzzy Control for Nonlinear Interconnected Systems** was accepted for publication in the Journal **Chaos, Solitons and Fractals**. Congratulations to the Ph.D. student Paulo Pessim. I am very proud to co-supervise Paulo. 
 
 - **November 2023** - Our paper **Finite-Time State Feedback Control for Discrete-Time Cyber-Physical Systems under DoS Attacks** was accepted for publication in *IEEE Chilecon 2023, the Chilean Conference on Electrical Electronic Engineering, Informatics and Communications Technology*. Congratulations to Felipe Augusto Silva, an undergraduate student from UFSJ who worked on this exciting topic.
 
-- Item 3
 
 
