@@ -6,7 +6,6 @@ redirect_from:
   - /service.html
 ---
 
----
 
 ### Editorial Board
 
