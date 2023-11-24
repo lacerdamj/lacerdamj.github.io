@@ -10,9 +10,9 @@ redirect_from:
 
 ### Editorial Board
 
-- Member of the IEEE CSS Conferences Editorial Board (CEB), 2023 -- Present
+- Member of the IEEE CSS Conferences Editorial Board (CEB), 2023 - Present
    
-- Member of the IEEE CSS Technology Conferences Editorial Board (TCEB), 2023 -- Present
+- Member of the IEEE CSS Technology Conferences Editorial Board (TCEB), 2023 - Present
 
 - Associate Editor - Journal of Control, Automation and Electrical Systems, 2022 - Present.
    [Link to Journal of Control, Automation and Electrical Systems](https://www.springer.com/journal/40313/editors)
