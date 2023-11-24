@@ -18,9 +18,8 @@ main:
   - title: "CV"
     url: /cv/
 
-
-#- title: "People"
- #  url: /people/   
+  - title: "People"
+    url: /people/
     
   - title: "Guide"
     url: /markdown/
