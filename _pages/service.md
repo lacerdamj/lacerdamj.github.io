@@ -13,18 +13,14 @@ redirect_from:
    
 - Member of the IEEE CSS Technology Conferences Editorial Board (TCEB), 2023 - Present
 
-- Associate Editor - Journal of Control, Automation and Electrical Systems, 2022 - Present.
-   [Link to Journal of Control, Automation and Electrical Systems](https://www.springer.com/journal/40313/editors)
+- Associate Editor - [Journal of Control, Automation and Electrical Systems](https://www.springer.com/journal/40313/editors), 2022 - Present.
 
-- Associate Editor - IEEE Latin America Transactions, 2020 - Present.
-   [Link to IEEE Latin America Transactions](https://latamt.ieeer9.org/index.php/transactions/about/editorialTeam)
+- Associate Editor - [IEEE Latin America Transactions](https://latamt.ieeer9.org/index.php/transactions/about/editorialTeam), 2020 - Present.
 
-- Associate Editor - Mathematical Problems in Engineering, 2020 - Present.
-   [Link to Mathematical Problems in Engineering](https://www.hindawi.com/journals/mpe/editors/)
+- Associate Editor - [Mathematical Problems in Engineering](https://www.hindawi.com/journals/mpe/editors/), 2020 - Present.
 
-- Journal of the Franklin Institute, Special Issue on High Fidelity LPV systems under constraints.
+- Journal of the Franklin Institute, [Special Issue on High Fidelity LPV systems under constraints](https://doi.org/10.1016/j.jfranklin.2022.02.029).
    Editors: Márcio J. Lacerda (UFSJ), Fergani Soheib (LAAS), Masayuki Sato (Japan Aerospace Exploration Agency), Valter J. S. Leite (Federal Center for Technological Education of Minas Gerais), Fen Wu (North Carolina State University).
-   [Link to Journal of the Franklin Institute](https://doi.org/10.1016/j.jfranklin.2022.02.029)
 
 ### Technical Program Committee Membership
 
