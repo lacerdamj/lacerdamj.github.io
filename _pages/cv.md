@@ -19,7 +19,6 @@ Education
 Work experience
 ======
 
- 
 - **Professor**
   - *18/08/2016 - Present*
   - Department of Electrical Engineering, Federal University of São João del-Rei, UFSJ, Brazil.
@@ -37,10 +36,9 @@ Work experience
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+See the [Publication list](https://github.com/lacerdamj/lacerdamj.github.io/blob/0ca01ace8a2f3dde8a40e76f81a44df08fe2699f/_pages/publications.md)
+    
 Talks
 ======
   <ul>{% for post in site.talks %}
