@@ -37,7 +37,7 @@ Work experience
 Publications
 ======
 
-See the [Publication list](https://github.com/lacerdamj/lacerdamj.github.io/blob/0ca01ace8a2f3dde8a40e76f81a44df08fe2699f/_pages/publications.md)
+See the [Publication list](https://lacerdamj.github.io/publications/)
     
 Talks
 ======
