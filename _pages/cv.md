@@ -11,31 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D. in Electrical Engineering, University of Campinas, UNICAMP, Brazil, 2014. 
+* M.Sc. in Electrical Engineering, University of Campinas, UNICAMP, Brazil, 2010.
+* B.S. in Electrical Engineering, GitHub University, Federal University of São João del-Rei, UFSJ, Brazil 2009.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+ 
+- **Professor**
+  - *18/08/2016 - Present*
+  - Department of Electrical Engineering, Federal University of São João del-Rei, UFSJ, Brazil.
+
+- **Postdoctoral Researcher**
+  - *01/08/2015 - 31/07/2016*
+  - Department of Aerospace Engineering and Mechanics, University of Minnesota, MN, USA.
+  - Supervisor: Prof. Peter Seiler
+
+- **Postdoctoral Researcher**
+  - *01/06/2014 - 31/07/2015*
+  - School of Electrical and Computer Engineering, University of Campinas - UNICAMP, SP, Brazil.
+  - Supervisor: Prof. Pedro L. D. Peres
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
