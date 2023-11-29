@@ -38,6 +38,16 @@ Publications
 ======
 
 See the [Publication list](https://lacerdamj.github.io/publications/)
+
+
+Awards and Honors
+======
+
+* 2022 The Brazilian fellowship of research productivity.
+* Keynote Speaker - *[IEEE International Conference on Automatica - Congreso de la Asociación Chilena de Control Automático, ACCA (IEEE ICA - ACCA Congress)](https://controlautomatico.org/ica_acca2022/keynote-speakers/)* - Control Design for Cyber-physical Systems Under Attacks, October 2022.
+* 2022 IEEE Senior Member.
+* 2020 Outstanding Reviewer Awards, IET Control Theory & Applications.
+
     
 Talks
 ======
