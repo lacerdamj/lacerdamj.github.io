@@ -8,6 +8,16 @@ redirect_from:
 
 ---
 
+
+
+### Postdoctoral Supervision
+1. **Priscila Fernanda da Silva Guedes**
+   
+   - Start date: 10/2023
+   - Control and filter design for systems under cyber attacks, including denial of service attacks and replay attacks.
+   - Institution: Federal University of São João del-Rei
+
+
 ### Current Ph.D. students
 
 1. **Paulo Sérgio Pereira Pessim**
@@ -22,3 +32,4 @@ redirect_from:
    - Institution: Maynooth University
    - Co-supervisor with Prof. Erivelton G. Nepomuceno
 
+### Current M.Sc. students
