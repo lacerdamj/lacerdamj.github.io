@@ -18,6 +18,8 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **December 2023** - Congratulations to Felipe Augusto Silva for finishing his degree in Electrical Engineering. Felipe will start his M.Sc. course at UFSJ under my supervision!
+
 - **December 2023** - Participating as an internal evaluator of the M.Sc. defense of the student Marcelo Ferreira Goudinho, entitled: "Controller and event transmission mechanism design in Networked Control Systems". Postgraduate Program in Electrical Engineering, UFSJ-CEFET-MG.
 
 - **November 2023** - Josefredo Gadelha da Silva, a Ph.D. student whom I co-supervise, from Maynooth University, Centre for Ocean Energy Research (COER) will be visiting UFSJ on the week of November 27. He will give a lecture on the topic: 
