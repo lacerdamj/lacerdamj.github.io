@@ -8,7 +8,9 @@ author_profile: true
 
 ## Journal Publications
 
-[*&#8224; indicate Master's students formally advised or co-advised.*]
+[*&#8224; indicate Master's and Ph.D. students formally advised or co-advised.*]
+
+- **[J37]** P. S. P. Pessim&dagger;, P. H. S. Coutinho, **M. J. Lacerda**, and R. M. Palhares. "Distributed event-triggered fuzzy control for nonlinear interconnected systems," * Chaos, Solitons & Fractals*, vol. 177, (2023): 114276.
 
 - **[J36]** P. M. Oliveira&dagger;, J. M. Palma, and **M. J. Lacerda**. "Control Design for an Unreliable Markovian Network Susceptible to Denial-of-Service Attacks," *IEEE Transactions on Circuits and Systems II: Express Briefs*, to appear.
 
