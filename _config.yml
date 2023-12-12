@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marcio J. Lacerda"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Professor, PhD in Electrical Engineering. Main interests: Robust control, LPV systems, hybrid systems, and cyber-physical systems under attacks."
   location         : "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
