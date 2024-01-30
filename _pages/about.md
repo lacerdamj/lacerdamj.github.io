@@ -16,6 +16,17 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **January 2024** - Congratulations to Roberto for his approval in the M.Sc defense. **Methodology for controller synthesis based on robust control for classic energy converter system: Validation for DC boost converter and 3-ph grid-supporting**. I am glad to have co-supervised Roberto with Prof. Jonathan Palma from the University of Talca. 
+
+- **January 2024** - One paper accepted on [ISCAS 2024](https://ieee-cas.org/event/symposium/2024-ieee-international-symposium-circuits-and-systems) - IEEE International Symposium on Circuits and Systems
+
+  1) LQR and Genetic Algorithms: an Effective Duo for Assessing Control Expenditure and Performance in Dynamic Systems.
+
+- **January 2024** - Two papers accepted in the [14th United Kingdom Automatic Control Council (UKACC) International Conference on Control](https://control2024.uk/)
+
+    1) Event-based control for discrete-time linear parameter-varying systems: an emulation-based design.
+    2) State-feedback control for discrete-time uncertain positive linear systems under denial of service attacks.  
+
 - **December 2023** - Congratulations to Felipe Augusto Silva for finishing his degree in Electrical Engineering. Felipe will start his M.Sc. course at UFSJ under my supervision!
 
 - **December 2023** - Participating as an internal evaluator of the M.Sc. defense of the student Marcelo Ferreira Goudinho, entitled: "Controller and event transmission mechanism design in Networked Control Systems". Postgraduate Program in Electrical Engineering, UFSJ-CEFET-MG.
