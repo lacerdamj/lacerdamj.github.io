@@ -25,6 +25,7 @@ Recent News
 - **January 2024** - Two papers accepted in the [14th United Kingdom Automatic Control Council (UKACC) International Conference on Control](https://control2024.uk/)
 
     1) Event-based control for discrete-time linear parameter-varying systems: an emulation-based design.
+
     2) State-feedback control for discrete-time uncertain positive linear systems under denial of service attacks.  
 
 - **December 2023** - Congratulations to Felipe Augusto Silva for finishing his degree in Electrical Engineering. Felipe will start his M.Sc. course at UFSJ under my supervision!
