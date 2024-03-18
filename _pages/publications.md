@@ -10,9 +10,12 @@ author_profile: true
 
 [*&#8224; indicate Master's and Ph.D. students formally advised or co-advised.*]
 
-- **[J37]** P. S. P. Pessim&dagger;, P. H. S. Coutinho, **M. J. Lacerda**, and R. M. Palhares. "Distributed event-triggered fuzzy control for nonlinear interconnected systems," * Chaos, Solitons & Fractals*, vol. 177, (2023): 114276.
 
-- **[J36]** P. M. Oliveira&dagger;, J. M. Palma, and **M. J. Lacerda**. "Control Design for an Unreliable Markovian Network Susceptible to Denial-of-Service Attacks," *IEEE Transactions on Circuits and Systems II: Express Briefs*, to appear.
+- **[J38]** R. M. Fuentes&dagger;, **M. J. Lacerda**, C. F. Morais, R. C. L. F. Oliveira, and J. M. Palma, "H-infinity gain-scheduled dynamic output feedback control with transient performance applied to electrical microgrid," *Journal of the Franklin Institute*, accepted, 2024.
+  
+- **[J37]** P. M. Oliveira&dagger;, J. M. Palma, and **M. J. Lacerda**. "Control Design for an Unreliable Markovian Network Susceptible to Denial-of-Service Attacks," *IEEE Transactions on Circuits and Systems II: Express Briefs*, vol. 71, no. 2, pp. 732--736, 2024.
+
+- **[J36]** P. S. P. Pessim&dagger;, P. H. S. Coutinho, **M. J. Lacerda**, and R. M. Palhares. "Distributed event-triggered fuzzy control for nonlinear interconnected systems," * Chaos, Solitons & Fractals*, vol. 177, (2023): 114276.
 
 - **[J35]** P. S. P. Pessim&dagger;, P. H. S. Coutinho, **M. J. Lacerda**, and R. M. Palhares. "Distributed Control of Time-Delay Interconnected Nonlinear-TS Fuzzy Systems," *Journal of the Franklin Institute*, vol. 360, no. 13, pp. 9637--9662, 2023.
 
