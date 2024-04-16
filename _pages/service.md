@@ -24,6 +24,10 @@ redirect_from:
 
 ### Technical Program Committee Membership
 
+- The 63rd IEEE Conference on Decision and Control (CDC 2024) - Associate Editor (Contributed and Invited Papers).
+
+- 2024 8th IEEE Conference on Control Technology and Applications (CCTA 2024) - Associate Editor (Contributed Papers).
+
 - 2024 American Control Conference (ACC 2024) - Associate Editor (Contributed Papers).
 
 - 2023 7th IEEE Conference on Control Technology and Applications (CCTA 2023) - Associate Editor (Contributed Papers).
