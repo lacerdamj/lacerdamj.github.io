@@ -16,11 +16,17 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **April 2024** - From 10-12 April, I attended the 14th International Conference on Control organised by the United Kingdom Automatic Control Council and by the University of Southampton. I was the chair of the Linear Control session where we presented two papers. 
+
+- **March 2024** - One paper accepted on [ACNDC 2024](https://acndc2024.org/) - 7th IFAC Conference on Analysis and Control of Nonlinear Dynamics and Chaos.
+
+   1) State-Feedback Control Design for Discrete-Time Systems via Second-Order Runge-Kutta Discretization.
+
 - **February 2024** - Paper accepted in the Journal of the Franklin Institute! "[H-infinity gain-scheduled dynamic output feedback control with transient performance applied to electrical microgrid.](https://doi.org/10.1016/j.jfranklin.2024.106704)"
   
 - **January 2024** - Congratulations to Roberto for his approval in the M.Sc defense. **Methodology for controller synthesis based on robust control for classic energy converter system: Validation for DC boost converter and 3-ph grid-supporting**. I am glad to have co-supervised Roberto with Prof. Jonathan Palma from the University of Talca. 
 
-- **January 2024** - One paper accepted on [ISCAS 2024](https://ieee-cas.org/event/symposium/2024-ieee-international-symposium-circuits-and-systems) - IEEE International Symposium on Circuits and Systems
+- **January 2024** - One paper accepted on [ISCAS 2024](https://ieee-cas.org/event/symposium/2024-ieee-international-symposium-circuits-and-systems) - IEEE International Symposium on Circuits and Systems.
 
   1) LQR and Genetic Algorithms: an Effective Duo for Assessing Control Expenditure and Performance in Dynamic Systems.
 
