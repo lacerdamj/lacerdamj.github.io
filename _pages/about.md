@@ -16,6 +16,8 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **April 2024** - 	22/04: I was a member of the Ph.D. committee as an external evaluator of the Thesis: EXPLOITING THE CHAOTIC DYNAMICS: NOVEL APPROACHES FOR CRYPTOSYSTEMS, DIGITAL SYSTEMS, AND LYAPUNOV EXPONENT ESTIMATION. Ph.D. candidate: Lucas Giovani Nardo, from the Federal University of Minas Gerais, Brazil.  
+
 - **April 2024** - From 10-12 April, I attended the 14th International Conference on Control organised by the United Kingdom Automatic Control Council and by the University of Southampton. I was the chair of the Linear Control session where we presented two papers. 
 
 - **March 2024** - One paper accepted on [ACNDC 2024](https://acndc2024.org/) - 7th IFAC Conference on Analysis and Control of Nonlinear Dynamics and Chaos.
