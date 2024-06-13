@@ -16,6 +16,10 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **June 2024** - From June 10 to June 21 I am visiting L'université polytechnique Hauts-de-France (UPHF) in Valenciennes, France, to collaborate with [Prof. Marcia Peixoto](https://sites.google.com/view/marcialcpeixoto/home) from the Laboratory [LAMIH](https://www.uphf.fr/lamih).
+
+- **June 2024** - Paper accepted in IEEE Access "[Engineering and Technology Applications of Control Co-Design: A Survey](https://doi.org/10.1109/ACCESS.2024.3412416)".
+
 - **May 2024** - 	20/05: I presented the seminar "[Cyber-physical systems under DoS attacks: a control systems perspective](https://lacerdamj.github.io/_pages/Seminar_Oxford_MLacerda.pdf)" in the [Oxford Control group](https://eng.ox.ac.uk/control/). Thank you Prof. Antonis Papachristodoulou for the invitation and Jack Umenberger for organizing it.  
 
 - **April 2024** - 	22/04: I was a member of the Ph.D. committee as an external evaluator of the Thesis: EXPLOITING THE CHAOTIC DYNAMICS: NOVEL APPROACHES FOR CRYPTOSYSTEMS, DIGITAL SYSTEMS, AND LYAPUNOV EXPONENT ESTIMATION. Ph.D. candidate: Lucas Giovani Nardo, from the Federal University of Minas Gerais, Brazil.  
