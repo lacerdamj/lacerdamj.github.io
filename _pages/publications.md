@@ -11,6 +11,8 @@ author_profile: true
 [*&#8224; indicate Master's and Ph.D. students formally advised or co-advised.*]
 
 
+- **[J39]** J. G. Silva&dagger;, T. Nazare, M. Costa, **M. J. Lacerda**, E. Nepomuceno, "Engineering and Technology Applications of Control Co-Design: A Survey," *Journal of the Franklin Institute*, accepted, 2024.
+
 - **[J38]** R. M. Fuentes&dagger;, **M. J. Lacerda**, C. F. Morais, R. C. L. F. Oliveira, and J. M. Palma, "H-infinity gain-scheduled dynamic output feedback control with transient performance applied to electrical microgrid," *Journal of the Franklin Institute*, accepted, 2024.
   
 - **[J37]** P. M. Oliveira&dagger;, J. M. Palma, and **M. J. Lacerda**. "Control Design for an Unreliable Markovian Network Susceptible to Denial-of-Service Attacks," *IEEE Transactions on Circuits and Systems II: Express Briefs*, vol. 71, no. 2, pp. 732--736, 2024.
