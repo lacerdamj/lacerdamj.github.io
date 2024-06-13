@@ -16,7 +16,7 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
-- **June 2024** - From June 10 to June 21 I am visiting L'université polytechnique Hauts-de-France (UPHF) in Valenciennes, France, to collaborate with [Prof. Marcia Peixoto](https://sites.google.com/view/marcialcpeixoto/home) from the Laboratory [LAMIH](https://www.uphf.fr/lamih).
+- **June 2024** - From June 10 to June 21 I am visiting L'université polytechnique Hauts-de-France (UPHF) in Valenciennes, France, to collaborate with [Prof. Márcia Peixoto](https://sites.google.com/view/marcialcpeixoto/home) from the Laboratory [LAMIH](https://www.uphf.fr/lamih).
 
 - **June 2024** - Paper accepted in IEEE Access "[Engineering and Technology Applications of Control Co-Design: A Survey](https://doi.org/10.1109/ACCESS.2024.3412416)".
 
