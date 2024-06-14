@@ -17,12 +17,14 @@ redirect_from:
 
 - Associate Editor - [IEEE Latin America Transactions](https://latamt.ieeer9.org/index.php/transactions/about/editorialTeam), 2020 - Present.
 
-- Associate Editor - [Mathematical Problems in Engineering](https://www.hindawi.com/journals/mpe/editors/), 2020 - Present.
+- Associate Editor - Mathematical Problems in Engineering 2020 - 2024.
 
 - Journal of the Franklin Institute, [Special Issue on High Fidelity LPV systems under constraints](https://doi.org/10.1016/j.jfranklin.2022.02.029).
    Editors: Márcio J. Lacerda (UFSJ), Fergani Soheib (LAAS), Masayuki Sato (Japan Aerospace Exploration Agency), Valter J. S. Leite (Federal Center for Technological Education of Minas Gerais), Fen Wu (North Carolina State University).
 
 ### Technical Program Committee Membership
+
+- XXV Brazilian Conference on Automatic (CBA 2024) - Associate Editor (Contributed Papers).
 
 - The 63rd IEEE Conference on Decision and Control (CDC 2024) - Associate Editor (Contributed and Invited Papers).
 
