@@ -11,6 +11,8 @@ author_profile: true
 [*&#8224; indicate Master's and Ph.D. students formally advised or co-advised.*]
 
 
+- **[J40]** P. M. Oliveira&dagger;, J. M. Palma, and **M. J. Lacerda**. "[Filter design for cyber‐physical systems against DoS attacks and unreliable networks: A Markovian approach](https://doi.org/10.1049/cth2.12703)," *IET Control Theory & Applications*, accepted, 2024.
+
 - **[J39]** J. G. Silva&dagger;, T. Nazare, M. Costa, **M. J. Lacerda**, E. Nepomuceno, "[Engineering and Technology Applications of Control Co-Design: A Survey](https://doi.org/10.1109/ACCESS.2024.3412416)," *IEEE Access*, accepted, 2024.
 
 - **[J38]** R. M. Fuentes&dagger;, **M. J. Lacerda**, C. F. Morais, R. C. L. F. Oliveira, and J. M. Palma, "[H-infinity gain-scheduled dynamic output feedback control with transient performance applied to electrical microgrid](https://doi.org/10.1016/j.jfranklin.2024.106704)," *Journal of the Franklin Institute*, vol 361, no 7, May 2024.
