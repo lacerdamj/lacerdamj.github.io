@@ -16,7 +16,7 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
-- **June 2024** - Paper accepted in IET Control Theory & Applications
+- **June 2024** - Paper accepted in IET Control Theory & Applications, "[Filter design for cyber‐physical systems against DoS attacks and unreliable networks: A Markovian approach](https://doi.org/10.1049/cth2.12703)".
 
 - **June 2024** - From June 10 to June 21 I am visiting L'université polytechnique Hauts-de-France (UPHF) in Valenciennes, France, to collaborate with [Prof. Márcia Peixoto](https://sites.google.com/view/marcialcpeixoto/home) from the Laboratory [LAMIH](https://www.uphf.fr/lamih).
 
