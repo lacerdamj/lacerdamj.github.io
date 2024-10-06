@@ -17,6 +17,10 @@ Recent News
 ======
 
 
+- **October 2024** - From October 01 to October 04, I received the visit of Roberto Fuentes, the Ph.D. student I co-supervise with Prof. Jonathan Palma from the University of Talca, Chile.
+
+- **September 2024** - Our paper "Preliminary Design for Reference tracking feedback for Medical Cyber-Physical Pharmacokinetic Systems" was accepted for publication in the [IEEE International Conference on Automation (ICA) - XXVI Congreso de la Asociación Chilena de Control Automático (ACCA)](https://ieee-ica-acca-2024.cl/), which will be held in Santiago, Chile. 
+
 - **August 2024** - I visited the University of Talca, and also the University of Concepcion to collaborate with Prof. Jonathan Palma and Prof. Hugo Garcés. I gave a lecture on [Control and filter design for cyber-physical systems under DoS attacks and transmission failures: A Markovian approach](https://lacerdamj.github.io/_pages/pdfdoc/SeminarMarcioLacerda.pdf).
 
 - **June 2024** - Paper accepted in IET Control Theory & Applications, "[Filter design for cyber‐physical systems against DoS attacks and unreliable networks: A Markovian approach](https://doi.org/10.1049/cth2.12703)".
