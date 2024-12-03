@@ -40,6 +40,8 @@ redirect_from:
 
 ### Professional Memberships
 
+- Member of the [EDI group](https://ukcontrol.org/the-team?e-filter-d9e58b7-team-category=edi) of the Automatic Control Engineering Network.
+
 - IEEE Senior Member
   - Member of the Control Systems Society CSS. 
   - Member of the IEEE Technical Committee on Hybrid Systems.
