@@ -15,7 +15,7 @@ redirect_from:
 
 - Associate Editor - [Journal of Control, Automation and Electrical Systems](https://www.springer.com/journal/40313/editors), 2022 - Present.
 
-- Associate Editor - [IEEE Latin America Transactions](https://latamt.ieeer9.org/index.php/transactions/about/editorialTeam), 2020 - Present.
+- Associate Editor - [IEEE Latin America Transactions](https://latamt.ieeer9.org/index.php/transactions/about/editorialTeam), 2020 - 2024.
 
 - Associate Editor - Mathematical Problems in Engineering 2020 - 2024.
 
@@ -23,6 +23,8 @@ redirect_from:
    Editors: Márcio J. Lacerda (UFSJ), Fergani Soheib (LAAS), Masayuki Sato (Japan Aerospace Exploration Agency), Valter J. S. Leite (Federal Center for Technological Education of Minas Gerais), Fen Wu (North Carolina State University).
 
 ### Technical Program Committee Membership
+
+- 2025 American Control Conference (ACC 2025) - Associate Editor (Contributed Papers).
 
 - XXV Brazilian Conference on Automatic (CBA 2024) - Associate Editor (Contributed Papers).
 
