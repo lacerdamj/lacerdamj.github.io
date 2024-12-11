@@ -15,6 +15,8 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **December 2024** - I have obtained a new certification: Fellowship of the Higher Education Academy (FHEA) from [Advance HE](https://www.advance-he.ac.uk/)!
+
 - **November 2024** - I was invited and accepted to be part of the EPSRC Peer Review College.
 
 - **November 2024** - From November 12 to November 14 I visited the Hamilton Institute, at Maynooth University, Ireland, to collaborate with [Prof. Erivelton Nepomuceno](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/erivelton-nepomuceno). I also delivered the seminar "How control theory can contribute to safety in cyber-physical systems?". 
