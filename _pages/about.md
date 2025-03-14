@@ -15,6 +15,10 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **March 2025** - 10/03: I delivered the seminar "Cyber-Physical Systems Security: A Control-Theoretic Perspective" at the Control and Power (CAP) Research Group, Imperial College London. Thank you Prof. Giordano Scarciotti for the invitation.
+
+- **January 2025** - Our paper [Preservation of Lyapunov stability through effective discretization in Runge–Kutta method](https://www.sciencedirect.com/science/article/pii/S0960077925000979) has been accepted for publication in Chaos, Solitons & Fractals Journal.
+
 - **December 2024** - I have obtained a new certification: Fellowship of the Higher Education Academy (FHEA) from [Advance HE](https://www.advance-he.ac.uk/)!
 
 - **November 2024** - I was invited and accepted to be part of the EPSRC Peer Review College.
