@@ -15,6 +15,12 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **April 2025** - Two papers accepted in the [11th IFAC Symposium on Robust Control Design (ROCOND’25)](https://conferences.ifac-control.org/rocond2025/)
+
+    1) A novel H-infinity filter design condition for discrete-time linear parameter-varying systems.
+
+    2) Convex Conditions for Observer Design in Nonlinear Continuous-Time Systems Using a Spatial Discretization Procedure.  
+
 - **March 2025** - 10/03: I delivered the seminar "Cyber-Physical Systems Security: A Control-Theoretic Perspective" at the Control and Power (CAP) Research Group, Imperial College London. Thank you Prof. Giordano Scarciotti for the invitation.
 
 - **January 2025** - Our paper [Preservation of Lyapunov stability through effective discretization in Runge–Kutta method](https://www.sciencedirect.com/science/article/pii/S0960077925000979) has been accepted for publication in Chaos, Solitons & Fractals Journal.
