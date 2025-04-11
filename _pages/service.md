@@ -24,6 +24,8 @@ redirect_from:
 
 ### Technical Program Committee Membership
 
+- 2025 9th IEEE Conference on Control Technology and Applications (CCTA 2025) - Associate Editor (Contributed Papers).
+
 - 2025 American Control Conference (ACC 2025) - Associate Editor (Contributed Papers).
 
 - XXV Brazilian Conference on Automatic (CBA 2024) - Associate Editor (Contributed Papers).
