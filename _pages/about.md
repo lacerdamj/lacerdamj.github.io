@@ -15,6 +15,9 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+
+- **April 2025** - Our Automatica paper was accepted and it is already online. Check it out! [A distributed gain-scheduled observer-based approach for the practical consensus of LPV multi-agent systems.](https://www.sciencedirect.com/science/article/pii/S0005109825002468)
+
 - **April 2025** - Two papers accepted in the [11th IFAC Symposium on Robust Control Design (ROCOND’25)](https://conferences.ifac-control.org/rocond2025/)
 
     1) A novel H-infinity filter design condition for discrete-time linear parameter-varying systems.
