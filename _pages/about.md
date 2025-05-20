@@ -16,6 +16,8 @@ Recent News
 ======
 
 
+- **May 2025** - Our paper [H∞ Control Co-design for Uncertain Polytopic Systems](https://asmedigitalcollection.asme.org/lettersdynsys/article/doi/10.1115/1.4068615/1217197) was published in the ASME Letters for Dynamic Systems and Control. It’s open access, have a look!
+
 - **April 2025** - Our Automatica paper was accepted and it is already online. Check it out! [A distributed gain-scheduled observer-based approach for the practical consensus of LPV multi-agent systems.](https://www.sciencedirect.com/science/article/pii/S0005109825002468)
 
 - **April 2025** - Two papers accepted in the [11th IFAC Symposium on Robust Control Design (ROCOND’25)](https://conferences.ifac-control.org/rocond2025/)
