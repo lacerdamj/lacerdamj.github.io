@@ -15,6 +15,7 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **July 2025** - Our paper [Static output-feedback control design from data](https://doi.org/10.1016/j.ejcon.2025.101260) was published in the European Journal of Control. Check it out!
 
 - **May 2025** - Our paper [H∞ Control Co-design for Uncertain Polytopic Systems](https://asmedigitalcollection.asme.org/lettersdynsys/article/doi/10.1115/1.4068615/1217197) was published in the ASME Letters for Dynamic Systems and Control. It’s open access, have a look!
 
