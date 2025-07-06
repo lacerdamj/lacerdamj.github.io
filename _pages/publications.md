@@ -11,7 +11,14 @@ author_profile: true
 [*&#8224; indicate Master's and Ph.D. students formally advised or co-advised.*]
 
 
-- **[J40]** P. M. Oliveira&dagger;, J. M. Palma, and **M. J. Lacerda**. "[Filter design for cyber‐physical systems against DoS attacks and unreliable networks: A Markovian approach](https://doi.org/10.1049/cth2.12703)," *IET Control Theory & Applications*, accepted, 2024.
+- **[J43]** P. S. P. Pessim&dagger; and P. H. S. Coutinho and **M. J. Lacerda** and V. Puig and R. M. Palhares.
+``[A distributed gain-scheduled observer-based approach for the practical consensus of LPV multi-agent systems](https://doi.org/10.1016/j.automatica.2025.112353)''. *Automatica*, vol 177, July 2025, 112353.
+
+- **[J42]** J. G. Da Silva&dagger; and **M. J. Lacerda** and T. Nazare and M. Costa and A. L. J. Bertolin and E. G. Nepomuceno, ``[H-infinity Control Co-design for Uncertain Polytopic Systems](https://doi.org/10.1115/1.4068615)''. *ASME Letters in Dynamic Systems and Control*, vol. 5, no. 3, July 2025.
+
+- **[J41]** P. F. Guedes and Eduardo M. A. M. Mendes and E. Nepomuceno and **M. J. Lacerda**. ``[Preservation of Lyapunov Stability through Effective Discretization in Runge-Kutta Method](https://doi.org/10.1016/j.chaos.2025.116084)''.  *Chaos, Solitons & Fractals*, vol 193, April 2025, 116084.
+
+- **[J40]** P. M. Oliveira&dagger;, J. M. Palma, and **M. J. Lacerda**. "[Filter design for cyber‐physical systems against DoS attacks and unreliable networks: A Markovian approach](https://doi.org/10.1049/cth2.12703)," *IET Control Theory & Applications*, vol. 18, no. 12, pp. 1505--1516, August 2024.
 
 - **[J39]** J. G. Silva&dagger;, T. Nazare, M. Costa, **M. J. Lacerda**, E. Nepomuceno, "[Engineering and Technology Applications of Control Co-Design: A Survey](https://doi.org/10.1109/ACCESS.2024.3412416)," *IEEE Access*, vol. 12, pp. 81692--81717, 2024.
 
