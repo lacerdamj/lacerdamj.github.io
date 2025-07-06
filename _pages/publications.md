@@ -14,7 +14,7 @@ author_profile: true
 - **[J43]** P. S. P. Pessim&dagger; and P. H. S. Coutinho and **M. J. Lacerda** and V. Puig and R. M. Palhares.
 ``[A distributed gain-scheduled observer-based approach for the practical consensus of LPV multi-agent systems](https://doi.org/10.1016/j.automatica.2025.112353)''. *Automatica*, vol 177, July 2025, 112353.
 
-- **[J42]** J. G. Da Silva&dagger; and **M. J. Lacerda** and T. Nazare and M. Costa and A. L. J. Bertolin and E. G. Nepomuceno, ``[H-infinity Control Co-design for Uncertain Polytopic Systems](https://doi.org/10.1115/1.4068615)''. *ASME Letters in Dynamic Systems and Control*, vol. 5, no. 3, July 2025.
+- **[J42]** J. G. Da Silva&dagger; and **M. J. Lacerda** and T. Nazare and M. Costa and A. L. J. Bertolin and E. G. Nepomuceno, ``[H∞ Control Co-design for Uncertain Polytopic Systems](https://doi.org/10.1115/1.4068615)''. *ASME Letters in Dynamic Systems and Control*, vol. 5, no. 3, July 2025.
 
 - **[J41]** P. F. Guedes and Eduardo M. A. M. Mendes and E. Nepomuceno and **M. J. Lacerda**. ``[Preservation of Lyapunov Stability through Effective Discretization in Runge-Kutta Method](https://doi.org/10.1016/j.chaos.2025.116084)''.  *Chaos, Solitons & Fractals*, vol 193, April 2025, 116084.
 
@@ -22,7 +22,7 @@ author_profile: true
 
 - **[J39]** J. G. Silva&dagger;, T. Nazare, M. Costa, **M. J. Lacerda**, E. Nepomuceno, "[Engineering and Technology Applications of Control Co-Design: A Survey](https://doi.org/10.1109/ACCESS.2024.3412416)," *IEEE Access*, vol. 12, pp. 81692--81717, 2024.
 
-- **[J38]** R. M. Fuentes&dagger;, **M. J. Lacerda**, C. F. Morais, R. C. L. F. Oliveira, and J. M. Palma, "[H-infinity gain-scheduled dynamic output feedback control with transient performance applied to electrical microgrid](https://doi.org/10.1016/j.jfranklin.2024.106704)," *Journal of the Franklin Institute*, vol 361, no 7, May 2024.
+- **[J38]** R. M. Fuentes&dagger;, **M. J. Lacerda**, C. F. Morais, R. C. L. F. Oliveira, and J. M. Palma, "[H∞ gain-scheduled dynamic output feedback control with transient performance applied to electrical microgrid](https://doi.org/10.1016/j.jfranklin.2024.106704)," *Journal of the Franklin Institute*, vol 361, no 7, May 2024.
   
 - **[J37]** P. M. Oliveira&dagger;, J. M. Palma, and **M. J. Lacerda**. "[Control Design for an Unreliable Markovian Network Susceptible to Denial-of-Service Attacks](https://doi.org/10.1109/TCSII.2023.3307809)," *IEEE Transactions on Circuits and Systems II: Express Briefs*, vol. 71, no. 2, pp. 732--736, 2024.
 
@@ -40,7 +40,7 @@ author_profile: true
 
 - **[J30]** G. O. Ferreira&dagger;, L. S. Figueiredo, **M. J. Lacerda**, V. J. S. Leite. "ISS control for continuous-time systems with filtered time-varying parameter and saturating actuators," *Asian Journal of Control*, vol. 24, no. 6, pp. 2888--2900, November 2022.
 
-- **[J29]** P. M. Oliveira&dagger;, J. M. Palma, **M. J. Lacerda**. "$\mathcal{H}_2$ state-feedback control for discrete-time cyber-physical uncertain systems under DoS attacks," *Applied Mathematics and Computation*, vol. 425, pp. 1--13, 2022.
+- **[J29]** P. M. Oliveira&dagger;, J. M. Palma, **M. J. Lacerda**. "H₂ state-feedback control for discrete-time cyber-physical uncertain systems under DoS attacks," *Applied Mathematics and Computation*, vol. 425, pp. 1--13, 2022.
 
 - **[J28]** L. S. Figueiredo&dagger;, **M. J. Lacerda**, V. J. S. Leite. "Design of saturating state feedback control laws for discrete time linear parameter varying systems through homogeneous polynomial parameter dependent functions," *International Journal of Robust and Nonlinear Control*, vol. 31, no. 14, pp. 6585--6601, 2021.
 
