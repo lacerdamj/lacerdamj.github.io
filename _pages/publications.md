@@ -11,6 +11,8 @@ author_profile: true
 [*&#8224; indicate Master's and Ph.D. students formally advised or co-advised.*]
 
 
+- **[J44]** P. M. Oliveira and P. H. S. Coutinho and I. Bessa and **M. J. Lacerda** and R. M. Palhares. ``[Static output-feedback control design from data](https://doi.org/10.1016/j.ejcon.2025.101260)''. *European Journal of Control*, vol 85, September 2025.
+
 - **[J43]** P. S. P. Pessim&dagger; and P. H. S. Coutinho and **M. J. Lacerda** and V. Puig and R. M. Palhares.
 ``[A distributed gain-scheduled observer-based approach for the practical consensus of LPV multi-agent systems](https://doi.org/10.1016/j.automatica.2025.112353)''. *Automatica*, vol 177, July 2025, 112353.
 
