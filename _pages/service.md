@@ -24,6 +24,10 @@ redirect_from:
 
 ### Technical Program Committee Membership
 
+- The 65th IEEE Conference on Decision and Control (CDC 2025) - Associate Editor (Contributed and Invited Papers).
+
+-  17th Brazilian Symposium on Intelligent Automation (SBAI 2025) - Associate Editor (Contributed Papers).
+
 - 2025 9th IEEE Conference on Control Technology and Applications (CCTA 2025) - Associate Editor (Contributed Papers).
 
 - 2025 American Control Conference (ACC 2025) - Associate Editor (Contributed Papers).
