@@ -15,7 +15,9 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
-- **July 2025** - Our paper ''[Distributed leader-following formation of discrete-time multi-agent LPV systems](http://doi.org/10.1002/rnc.70091), was accepted for publication in the International Journal of Robust and Nonlinear Control!
+- **August 2025** - Our paper [A New Convex Approach for Grid-Supporting Inverter Control Based on DLMIs](https://doi.org/10.1109/TII.2025.3598523), was accepted in the IEEE Transactions on Industrial Informatics journal, and it is already online!
+
+- **July 2025** - Our paper [Distributed leader-following formation of discrete-time multi-agent LPV systems](http://doi.org/10.1002/rnc.70091), was accepted for publication in the International Journal of Robust and Nonlinear Control!
 
 - **July 2025** - Our paper [Static output-feedback control design from data](https://doi.org/10.1016/j.ejcon.2025.101260) was published in the European Journal of Control. Check it out!
 
