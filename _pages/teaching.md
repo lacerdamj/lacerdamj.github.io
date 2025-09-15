@@ -8,34 +8,39 @@ author_profile: true
 
 ## Teaching
 
-## Undergraduate courses 
+## Graduate courses (M.Sc.)
 
-Modules: 
+- **Robotic Systems** - M.Sc. in Robotics and Artificial Intelligence. *Module leader*. Autumn 2024. Institution: London Metropolitan University.  
 
-  1) Introduction to Robotics and Internet of Things,
+- **Sensors, Actuators and Control** - M.Sc. in Robotics and Artificial Intelligence. *Lecturer*. Spring 2025. Institution: London Metropolitan University.  
 
-  2) Communications Engineering,
+- **Robust Control** - 60h, covers the use of Linear Matrix Inequalities for robust control. M.Sc. in Electrical Engineering. *Instructor*. 1st semester 2018, 2nd semester 2019, 2nd semester 2020. Institution: Federal University of São João del-Rei.  
 
-  3) Logic and Mathematical Techniques,
+- **Linear Systems Theory and Design** - 60h, covers classical analysis of linear systems. M.Sc. in Electrical Engineering. *Instructor*. 2nd semester 2017, 2nd semester 2018, 2nd semester 2021, 1st semester 2023. Institution: Federal University of São João del-Rei.  
 
-  4) Classic Control,
+- **Signals & Systems** - 60h, covers classical analysis of continuous and discrete-time signals. M.Sc. in Electrical Engineering. *Instructor*. 2nd semester 2022. Institution: Federal University of São João del-Rei.  
 
-  5) Electric Circuits Laboratory. 
+---
 
+## Undergraduate courses
 
-## Graduate courses  
+- **Introduction to Robotics and Internet of Things** - *Tutor*. Spring 2024, Autumn 2024, Spring 2025. Institution: London Metropolitan University.  
 
-Modules: 
+- **IoT Systems and Security** - *Tutor*. Spring 2025. Institution: London Metropolitan University.  
 
-  1) Robust Control,
+- **Broadband Systems II** - *Module leader*. Spring 2025. Institution: London Metropolitan University.  
 
-  2) Linear Systems Theory and Design,
+- **Communication Engineering** - *Tutor*. Spring 2024, Autumn 2024, Spring 2025. Institution: London Metropolitan University.  
 
-  3) Signals & Systems,
+- **Logic and Mathematical Techniques** - *Tutor*. Spring 2024, Spring 2025. Institution: London Metropolitan University.  
 
-  4) Positive Polynomials in Control,
+- **Linear Systems** - 72h, Electrical Engineering. *Module leader*. 1st semester 2018, 1st semester 2020, 2nd semester 2020, 1st semester 2021, 2nd semester 2021, 1st semester 2023. Institution: Federal University of São João del-Rei.  
+  Also taught in the 1st semester 2015. Institution: University of Campinas.  
 
-  5) Control of Cyber-Physical Systems Under Security Constraints.
+- **Classic Control** - 72h, Electrical Engineering. *Module leader*. 2nd semester 2016, 1st semester 2017, 1st semester 2018, 2nd semester 2018, 1st semester 2019. Institution: Federal University of São João del-Rei.  
+
+- **Electric Circuits Laboratory** - 36h, Electrical Engineering. *Module leader*. 1st semester 2017, 2nd semester 2017, 2nd semester 2018, 1st semester 2022, 2nd semester 2022. Institution: Federal University of São João del-Rei.  
+
 
 
 
