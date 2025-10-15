@@ -15,6 +15,9 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **September 2025** - My Ph.D. student José Fabiano Vellozo D'alterio Moreira, from the Federal University of São João del-Rei, started his visit at London Metropolitan University this month.  
+José will be staying with us until May 2026. We will be working on the mitigation of cyber-attacks in the control of power systems.
+
 - **September 2025** - Our paper [A Review of Wave Energy Converters for Stabilisation and Power Output Optimisation of Floating Offshore Wind Platforms](https://doi.org/10.36688/ewtec-2025-1216), was presented in the 16th European Wave and Tidal Energy Conference. 
 
 - **August 2025** - Our paper [A New Convex Approach for Grid-Supporting Inverter Control Based on DLMIs](https://doi.org/10.1109/TII.2025.3598523), was accepted in the IEEE Transactions on Industrial Informatics journal, and it is already online!
