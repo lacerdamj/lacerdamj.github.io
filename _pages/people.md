@@ -27,14 +27,16 @@ redirect_from:
 2. **Samuel Roy Truss**
    - Start date: 09/2024  
    - Topic: AI-led Vulnerability Assessment and Penetration Testing Framework for Industrial IoT (IIoT) Networks and Edge Networks  
-   - Institution: London Metropolitan University  
-   - Co-supervisor with Prof. Wesley Peres  
+   - Institution: London Metropolitan University
+   - Co-supervisor with Prof. Mohamed Ghanem  
+ 
 
 3. **José Fabiano Vellozo D'alterio Moreira**
    - Start date: 03/2024  
    - Topic: Power System Considering Uncertainties and Renewable Energy Penetration in the Presence of Cyber Attacks  
-   - Institution: Federal University of São João del-Rei, Brazil  
-   - Co-supervisor with Prof. Mohamed Ghanem  
+   - Institution: Federal University of São João del-Rei, Brazil
+   - Co-supervisor with Prof. Wesley Peres  
+   
 
 4. **Josefredo Gadelha da Silva**
    - Start date: 03/2023  
