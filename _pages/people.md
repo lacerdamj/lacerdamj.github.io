@@ -30,7 +30,7 @@ redirect_from:
    - Institution: London Metropolitan University  
    - Co-supervisor with Prof. Wesley Peres  
 
-3. **Jose Fabiano**
+3. **José Fabiano Vellozo D'alterio Moreira**
    - Start date: 03/2024  
    - Topic: Power System Considering Uncertainties and Renewable Energy Penetration in the Presence of Cyber Attacks  
    - Institution: Federal University of São João del-Rei, Brazil  
