@@ -19,23 +19,34 @@ redirect_from:
 
 ### Current Ph.D. students
 
-1. **Paulo Sérgio Pereira Pessim**
-   - Start date: 07/2021
-   - Topic: Distributed event-based control for large-scale linear systems with time-varying parameters subject to cyberattacks.
-   - Institution: Federal University of Minas Gerais, Brazil.
-   - Co-supervisor with Prof. Reinaldo M. Palhares and Pedro Coutinho.
+1. **Fatma Yasmine Loumachi**
+   - Start date: 01/2025  
+   - Topic: AI-Powered Framework for PCI DSS Cybersecurity Compliance and Auditing  
+   - Institution: London Metropolitan University  
 
-2. **Josefredo Gadelha da Silva**
-   - Start date: 03/2023
-   - Topic: Control strategy for simultaneous stabilization and wave energy harvesting for a floating offshore wind/wave platform.
-   - Institution: Maynooth University, Ireland.
-   - Co-supervisor with Prof. Erivelton G. Nepomuceno
-  
-3. **Roberto M. Fuentes**
-   - Start date: 07/2023
-   - Topic: Control and filter design for cyber-physical systems under attacks.
-   - Institution:  Universidad de Talca, Chile
-   - Co-supervisor with Prof. Jonathan M. Palma
+2. **Samuel Roy Truss**
+   - Start date: 09/2024  
+   - Topic: AI-led Vulnerability Assessment and Penetration Testing Framework for Industrial IoT (IIoT) Networks and Edge Networks  
+   - Institution: London Metropolitan University  
+   - Co-supervisor with Prof. Wesley Peres  
+
+3. **Jose Fabiano**
+   - Start date: 03/2024  
+   - Topic: Power System Considering Uncertainties and Renewable Energy Penetration in the Presence of Cyber Attacks  
+   - Institution: Federal University of São João del-Rei, Brazil  
+   - Co-supervisor with Prof. Mohamed Ghanem  
+
+4. **Josefredo Gadelha da Silva**
+   - Start date: 03/2023  
+   - Topic: Control Strategy for Simultaneous Stabilization and Wave Energy Harvesting for a Floating Offshore Wind/Wave Platform  
+   - Institution: Maynooth University, Ireland  
+   - Co-supervisor with Prof. Erivelton G. Nepomuceno  
+
+5. **Roberto M. Fuentes**
+   - Start date: 07/2023  
+   - Topic: Control and Filter Design for Cyber-Physical Systems Under Attacks  
+   - Institution: Universidad de Talca, Chile  
+   - Co-supervisor with Prof. Jonathan M. Palma  
      
 ### Current M.Sc. students
 
@@ -43,6 +54,17 @@ redirect_from:
    - Start date: 03/2024
    - Topic: Safety in cyber-physical systems.
    - Institution: Federal University of Sao Joao del-Rei, Brazil.
+  
+
+### Completed Ph.D. supervisions
+
+1. **Paulo Sérgio Pereira Pessim**
+   - Completed: 09/07/2025
+   - Thesis: [APPROACHES TO DISTRIBUTED CONTROL DESIGN: addressing multiple challenges in interconnected and multi-agent systems](https://repositorio.ufmg.br/bitstreams/f8e100d0-4d52-4828-a583-5fd0a3617164/download)
+   - Institution: Federal University of Minas Gerais, Brazil.
+   - Co-supervisor with Prof. Reinaldo M. Palhares and Pedro Coutinho.
+
+
   
 ### Master's students - Alumni
 
