@@ -11,6 +11,8 @@ author_profile: true
 [*&#8224; indicate Master's and Ph.D. students formally advised or co-advised.*]
 
 
+- **[J47]**  P. S. P. Pessim&dagger; and P. H. S. Coutinho and **M. J. Lacerda** and V. Puig and R. M. Palhares.
+``[Distributed leader-following formation of discrete-time multi-agent LPV systems](https://doi.org/10.1002/rnc.70091)''. *International Journal of Robust and Nonlinear Control*, 2025.
 
 - **[J46]** P. H. S. Coutinho and P. M. Oliveira and I. Bessa and **M. J. Lacerda** and R. M. Palhares.
 ``[Data-driven Nonquadratic Stabilization of Takagi-Sugeno Fuzzy Systems](https://doi.org/10.1016/j.jfranklin.2025.108131)''. *Journal of the Franklin Institute*, vol 362, no 17, November 2025.
