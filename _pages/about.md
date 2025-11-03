@@ -15,6 +15,8 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **October 2025** - I am glad to share that our paper *Cloud Control for Cyber-Physical Systems in the presence of DoS attacks*, received the **Best Paper Award** at the **8th Conference on Cloud and Internet of Things**.
+
 - **September 2025** - My Ph.D. student José Fabiano Vellozo D'alterio Moreira, from the Federal University of São João del-Rei, started his visit at London Metropolitan University this month.  
 José will be staying with us until May 2026. We will be working on the mitigation of cyber-attacks in the control of power systems.
 
