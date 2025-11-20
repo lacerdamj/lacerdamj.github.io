@@ -54,5 +54,19 @@ redirect_from:
 
 - Member of the Brazilian Society of Automatics (SBA).
   - Vice coordinator elected for the term (2023-2024) of the institutional committee SBA Young, of the Brazilian Society of Automatics.
+ 
+**PhD Examination Committees**
+
+1. **Pablo Henrique Gonçalves** – *State Estimation of Nonlinear Systems: A Robust Approach Using Convex Optimization Methods*. PhD in Electrical Engineering, Federal University of Minas Gerais (2025). Committee members: **B. O. S. Teixeira, V. C. S. Campos, L. A. Mozelli, L. A. F. Santos, M. J. Lacerda, R. C. L. F. Oliveira**.
+
+2. **Lucas Giovani Nardo** – *Exploiting Chaotic Dynamics: Novel Approaches for Cryptosystems, Digital Systems, and Lyapunov Exponent Estimation*. PhD in Electrical Engineering, Federal University of Minas Gerais (2024). Committee members: **J. Arias-Garcia, E. G. Nepomuceno, E. M. A. M. Mendes, F. O. Souza, M. J. Lacerda, G. T. Bastos**.
+
+3. **Priscila Fernanda da Silva Guedes** – *Efficient Discretization Scheme for Nonlinear Systems in Floating-Point and Posit Arithmetic*. PhD in Electrical Engineering, Federal University of Minas Gerais (2023). Committee members: **E. M. A. M. Mendes, E. G. Nepomuceno, D. D. Ferreira, M. J. Lacerda, J. Arias-Garcia, L. A. B. Torres**.
+
+4. **Henrique William Resende Pereira** – *Optimal Filtering Applied to Sampled-Data Systems*. PhD in Electronic and Computer Engineering, Aeronautics Institute of Technology (2023). Committee members: **G. W. Gabriel, A. M. Oliveira, L. Frezzatto, M. J. Lacerda, J. R. Colombo Junior, R. L. Pereira**.
+
+5. **Eduardo Ribeiro Pinto** – *Agent-Based Model with Complex Networks for Infectious Diseases*. PhD in Biometry, São Paulo State University Júlio de Mesquita Filho (2022). Committee members: **A. S. L. O. Campanharo, M. J. Lacerda, M. X. Silva, F. M. Ramos, F. L. P. Santos**.
+
+
 
 
