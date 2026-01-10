@@ -15,6 +15,8 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **January 2026** - I joined the [Editorial Committee](https://ieee-cas.org/publication/JETCAS#committee) of the IEEE Journal on Emerging and Selected Topics in Circuits and Systems.
+
 - **December 2025** - I participated in the [64th IEEE Conference on Decision and Control](https://cdc2025.ieeecss.org/), delivering a presentation on my paper *Safe Control Design for uncertain linear systems under input saturation using Lyapunov barrier functions*. I also served as a chair for the session Robust Control of Uncertain Systems.
 
 - **October 2025** - I am glad to share that our paper *Cloud Control for Cyber-Physical Systems in the presence of DoS attacks*, received the **Best Paper Award** at the **8th Conference on Cloud and Internet of Things**.
