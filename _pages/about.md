@@ -15,6 +15,8 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **January 2026** - Our paper Robust Control of Wave Energy Systems with Data-Driven Modelling", has been accepted for Lecture presentation at the [2026 IEEE International Symposium on Circuits and Systems](https://2026.ieee-iscas.org/), to be held in Shanghai, China from May 24-27, 2026. 
+
 - **January 2026** - I joined the [Editorial Committee](https://ieee-cas.org/publication/JETCAS#committee) of the IEEE Journal on Emerging and Selected Topics in Circuits and Systems.
 
 - **December 2025** - I participated in the [64th IEEE Conference on Decision and Control](https://cdc2025.ieeecss.org/), delivering a presentation on my paper *Safe Control Design for uncertain linear systems under input saturation using Lyapunov barrier functions*. I also served as a chair for the session Robust Control of Uncertain Systems.
