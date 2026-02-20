@@ -9,6 +9,8 @@ redirect_from:
 
 ### Editorial Board
 
+- Senior Editor - [IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieee-cas.org/publication/JETCAS#committee), 2026 - Present. 
+
 - Member of the IEEE CSS Conferences Editorial Board (CEB), 2023 - Present
    
 - Member of the IEEE CSS Technology Conferences Editorial Board (TCEB), 2023 - Present
@@ -23,6 +25,8 @@ redirect_from:
    Editors: Márcio J. Lacerda (UFSJ), Fergani Soheib (LAAS), Masayuki Sato (Japan Aerospace Exploration Agency), Valter J. S. Leite (Federal Center for Technological Education of Minas Gerais), Fen Wu (North Carolina State University).
 
 ### Technical Program Committee Membership
+
+- 2026 American Control Conference (ACC 2026) - Associate Editor (Contributed Papers).
 
 - The 65th IEEE Conference on Decision and Control (CDC 2025) - Associate Editor (Contributed and Invited Papers).
 
