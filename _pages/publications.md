@@ -11,7 +11,7 @@ author_profile: true
 [*&#8224; indicate Master's and Ph.D. students formally advised or co-advised.*]
 
 
--**[J48]** J. G. Da Silva&dagger; and **M. J. Lacerda** and M. Costa and E. G. Nepomuceno. ``[Towards uncertainty-quantified data-driven modelling and robust control of a wave energy converter prototype](https://www.sciencedirect.com/science/article/pii/S0029801826005792)''. *Ocean Engineering*, vol 354, Part 1, 1 May 2026, 124745. 
+- **[J48]** J. G. Da Silva&dagger; and **M. J. Lacerda** and M. Costa and E. G. Nepomuceno. ``[Towards uncertainty-quantified data-driven modelling and robust control of a wave energy converter prototype](https://www.sciencedirect.com/science/article/pii/S0029801826005792)''. *Ocean Engineering*, vol 354, Part 1, 1 May 2026, 124745. 
 
 - **[J47]**  P. S. P. Pessim&dagger; and P. H. S. Coutinho and **M. J. Lacerda** and V. Puig and R. M. Palhares.
 ``[Distributed leader-following formation of discrete-time multi-agent LPV systems](https://doi.org/10.1002/rnc.70091)''. *International Journal of Robust and Nonlinear Control*, 2025.
