@@ -15,6 +15,8 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **March 2026** - Our paper [*Towards uncertainty-quantified data-driven modelling and robust control of a wave energy converter prototype*](https://www.sciencedirect.com/science/article/pii/S0029801826005792) just has been published in the journal Ocean Engineering! This work is a collaboration with colleagues from Maynooth University. Check it out!
+
 - **January 2026** - Our paper Robust Control of Wave Energy Systems with Data-Driven Modelling", has been accepted for Lecture presentation at the [2026 IEEE International Symposium on Circuits and Systems](https://2026.ieee-iscas.org/), to be held in Shanghai, China from May 24-27, 2026. 
 
 - **January 2026** - I joined the [Editorial Committee](https://ieee-cas.org/publication/JETCAS#committee) of the IEEE Journal on Emerging and Selected Topics in Circuits and Systems.
