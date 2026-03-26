@@ -10,6 +10,7 @@ author_profile: true
 
 [*&#8224; indicate Master's and Ph.D. students formally advised or co-advised.*]
 
+- **[J49]** **M. J. Lacerda**, M. L. C. Peixoto. "[Static output-feedback control for uncertain systems under input saturation and persistent disturbance](https://doi.org/10.1016/j.automatica.2026.112943)," *Automatica*, Volume 188, June 2026, 112943.
 
 - **[J48]** J. G. Da Silva&dagger; and **M. J. Lacerda** and M. Costa and E. G. Nepomuceno. ``[Towards uncertainty-quantified data-driven modelling and robust control of a wave energy converter prototype](https://www.sciencedirect.com/science/article/pii/S0029801826005792)''. *Ocean Engineering*, vol 354, Part 1, 1 May 2026, 124745. 
 
