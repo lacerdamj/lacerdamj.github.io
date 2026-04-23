@@ -15,9 +15,9 @@ redirect_from:
    
 - Member of the IEEE CSS Technology Conferences Editorial Board (TCEB), 2023 - Present
 
-- Associate Editor - [Journal of Control, Automation and Electrical Systems](https://www.springer.com/journal/40313/editors), 2022 - Present.
+- Associate Editor - Journal of Control, Automation and Electrical Systems, 2022 - 2026.
 
-- Associate Editor - [IEEE Latin America Transactions](https://latamt.ieeer9.org/index.php/transactions/about/editorialTeam), 2020 - 2024.
+- Associate Editor - IEEE Latin America Transactions, 2020 - 2024.
 
 - Associate Editor - Mathematical Problems in Engineering 2020 - 2024.
 
