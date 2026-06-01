@@ -16,10 +16,11 @@ Recent News
 ======
 
 
-
+- **May 2026** - I served on the PhD qualifying exam committee of Patrícia Lopes Silva, from the Federal University of Technology – Paraná, whose research was titled “Synthesis of Robust Observers for Nonlinear Systems with State-Dependent Parameters.”
+  
 - **May 2026** - My Ph.D. student Roberto Fuentes, from the University of Talca, Chile, started his visit at London Metropolitan University this month.  Roberto will be staying with us until June 2026.
 
-- **April 2026** I served on the PhD qualifying exam committee of Luís Henrique dos Santos, from the Federal University of Minas Gerais, whose research was titled “Identification of Multivariable Systems Subject to Severe Nonlinearities Using Hammerstein Models.”
+- **April 2026** - I served on the PhD qualifying exam committee of Luís Henrique dos Santos, from the Federal University of Minas Gerais, whose research was titled “Identification of Multivariable Systems Subject to Severe Nonlinearities Using Hammerstein Models.”
 
 - **March 2026** - Our paper [*Static output-feedback control for uncertain systems under input saturation and persistent disturbance*](https://doi.org/10.1016/j.automatica.2026.112943) was published in Automatica! This paper is a collaboration with Marcia L. C. Peixoto from the Université Polytechnique Hauts-de-France. The paper is open access, feel free to have a look!
 
