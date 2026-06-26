@@ -15,6 +15,7 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **June 2026** - From 23–25 June, I attended the 15th International Conference on Control in Newcastle, organised by the United Kingdom Automatic Control Council (UKACC) and the ACE Network.
 
 - **May 2026** - I served on the PhD qualifying exam committee of Patrícia Lopes Silva, from the Federal University of Technology – Paraná, whose research was titled “Synthesis of Robust Observers for Nonlinear Systems with State-Dependent Parameters.”
   
