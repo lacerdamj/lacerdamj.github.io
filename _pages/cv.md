@@ -52,9 +52,3 @@ Awards and Honors
 * 2022 IEEE Senior Member.
 * 2020 Outstanding Reviewer Awards, IET Control Theory & Applications.
       
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
