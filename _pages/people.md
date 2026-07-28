@@ -50,12 +50,6 @@ redirect_from:
    - Institution: Universidad de Talca, Chile  
    - Co-supervisor with Prof. Jonathan M. Palma  
      
-### Current M.Sc. students
-
-1. **Felipe A. Silva**
-   - Start date: 03/2024
-   - Topic: Safety in cyber-physical systems.
-   - Institution: Federal University of Sao Joao del-Rei, Brazil.
   
 
 ### Completed Ph.D. supervisions
@@ -70,7 +64,10 @@ redirect_from:
   
 ### Master's students - Alumni
 
-**Roberto Fuentes Albornoz**
+
+  **Felipe A. Silva** (2026) - Safe control design for uncertain linear systems under input saturation using Lyapunov barrier functions.
+ 
+  **Roberto Fuentes Albornoz**
   (2024) - Methodology for controller synthesis based on robust control for classic energy converter system: validation for dc boost converter and 3-ph grid-supporting. Co-supervisor with Prof. Jonathan Palma.
   
   **José Fabiano Vellozo D'alterio Moreira**
@@ -91,7 +88,7 @@ redirect_from:
   **Larissa Soares Figueiredo**
   (2020) - Control of discrete-time LPV systems under saturated actuators. Co-supervisor with Prof. Valter Leite.
 
-**Natalia Augusto Keles**
+  **Natalia Augusto Keles**
   (2019) - Robust analysis and observer based control for uncertain periodic discrete-time systems.
 
    **Thales da Silveira Gomide** 
