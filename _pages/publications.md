@@ -10,7 +10,12 @@ author_profile: true
 
 [*&#8224; indicate Master's and Ph.D. students formally advised or co-advised.*]
 
-- **[J49]** **M. J. Lacerda**, M. L. C. Peixoto. "[Static output-feedback control for uncertain systems under input saturation and persistent disturbance](https://doi.org/10.1016/j.automatica.2026.112943)," *Automatica*, Volume 188, June 2026, 112943.
+
+- **[J51]** M. Alemayehu, M. C. Ghanem, D. Dunsin, H. Kheddar, **M. J. Lacerda**. "[A Systematic Analysis on the Use of AI Techniques in Industrial IoT DDoS Attacks Detection, Mitigation and Prevention](https://doi.org/10.3390/iot7030051)," *IoT*, Volume 7, No. 51, pp. 1–56.
+
+- **[J50]** **M. J. Lacerda**, M. L. C. Peixoto. "[Static output-feedback control for uncertain systems under input saturation and persistent disturbance](https://doi.org/10.1016/j.automatica.2026.112943)," *Automatica*, Volume 188, June 2026, 112943.
+
+- **[J49]** F. Loumachi, **M. J. Lacerda**, K. Ouazzane, A. Adnane, O. Adamyk. "[AI in Control: Rethinking Cybersecurity Compliance and Auditing](https://doi.org/10.1016/j.infsof.2026.108132)," *Information and Software Technology*, Volume 195, July 2026, 108132.
 
 - **[J48]** J. G. Da Silva&dagger; and **M. J. Lacerda** and M. Costa and E. G. Nepomuceno. ``[Towards uncertainty-quantified data-driven modelling and robust control of a wave energy converter prototype](https://www.sciencedirect.com/science/article/pii/S0029801826005792)''. *Ocean Engineering*, vol 354, Part 1, 1 May 2026, 124745. 
 
