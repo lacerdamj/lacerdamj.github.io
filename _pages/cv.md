@@ -20,7 +20,7 @@ Work experience
 ======
 
 - **Reader in Control Engineering and Cyber-Physical Systems**
-  - *01/2024 -*
+  - *01/2024* -
   - School of Computing and Digital Media, London Metropolitan University, UK.
 
 - **Professor**
