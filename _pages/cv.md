@@ -14,7 +14,7 @@ Education
 
 * Ph.D. in Electrical Engineering, University of Campinas, UNICAMP, Brazil, 2014. 
 * M.Sc. in Electrical Engineering, University of Campinas, UNICAMP, Brazil, 2010.
-* B.S. in Electrical Engineering, Federal University of São João del-Rei, UFSJ, Brazil 2009.
+* B.Sc. in Electrical Engineering, Federal University of São João del-Rei, UFSJ, Brazil 2009.
 
 Work experience
 ======
