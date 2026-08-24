@@ -11,8 +11,8 @@ author_profile: true
 [*&#8224; indicate Master's and Ph.D. students formally advised or co-advised.*]
 
 
-- **[J51]** J. F. V. D Moreira&dagger; and W. Peres and **M. J. Lacerda**. "Output-Feedback Control with Transient
-Performance Guarantees under DoS Attacks", *IFAC Journal of Systems and Control*, 2026.
+- **[J51]** J. F. V. D Moreira&dagger; and W. Peres and **M. J. Lacerda**. "[Output-Feedback Control with Transient
+Performance Guarantees under DoS Attacks](https://doi.org/10.1016/j.ifacsc.2026.100440)", *IFAC Journal of Systems and Control*, Volume 37, September 2026, 100440.
 
 - **[J51]** M. Alemayehu, M. C. Ghanem, D. Dunsin, H. Kheddar, **M. J. Lacerda**. "[A Systematic Analysis on the Use of AI Techniques in Industrial IoT DDoS Attacks Detection, Mitigation and Prevention](https://doi.org/10.3390/iot7030051)," *IoT*, Volume 7, No. 51, pp. 1–56, 2026.
 
