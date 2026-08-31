@@ -15,6 +15,8 @@ My main research interests include constrained control, LPV systems, and cyber-p
 Recent News
 ======
 
+- **August 2026** – I visited the Department of Mechatronics Engineering at CEFET–MG, Divinópolis, Brazil, to collaborate with [Prof. Valter Leite](https://scholar.google.com.br/citations?user=uIMFn2cAAAAJ&hl=en) as part of our research project (Grant No. APQ-05551-25), funded by FAPEMIG. During my visit, I also delivered the seminar “Cyber-Physical Systems Security: A Control-Theoretic Perspective.”
+  
 - **August 2026** - Our paper [*Output-Feedback Control with Transient Performance Guarantees under DoS Attacks*](https://doi.org/10.1016/j.ifacsc.2026.100440) has been published in the IFAC Journal of Systems and Control. This work is one of the outcomes of PhD student José Fabiano Moreira’s research visit to the UK.
 
 - **June 2026** - From 23–25 June, I attended the 15th International Conference on Control in Newcastle, organised by the United Kingdom Automatic Control Council (UKACC) and the ACE Network.
